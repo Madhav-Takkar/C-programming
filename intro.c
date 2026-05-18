@@ -1,24 +1,29 @@
 #include <stdio.h>
 int main(){
-    // printing (this is a single line comment)
+    //(this is a single line comment)
 
     /* multiline
     comment 
     */
 
     printf("hello,world!\n");
-    return 0;
-    // variables
-    // name of variable - is known as "identifier"
-    int var;                            //variable declaration
-    var = 1;                            //variable initialization
-    // int - integer datatype
-    
-    char var2 = 'a'; // in char datatype only one character is allowded
-    char var3;
-    var3 = 'b';
-    // day1 ends here 
 
+
+    int num_var;                            //variable declaration
+    num_var = 1;                            //variable initialization
+    
+    int num_var2 = 2; 
+    
+    int num_var3; 
+    num_var3 = (num_var + num_var2 );      // operation on 2 int variable 
+    printf("value = %d \n", num_var3);
+    printf("value = %i \n", num_var3); 
+
+    char char_var1 = 'a';
+    float var3 = 12.3;
+    double var4 = 32.333334;
+    long var5 = 2323232323;
     
     
+    return 0;
 } 
