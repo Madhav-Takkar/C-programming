@@ -10,4 +10,4 @@ i will be learning c language
 -> syntax for variable declaration and initialization - data type variable_name = value; 
 -> (int) - integer datatype
 -> (char) - stores single character 
--> format specifiers 
+-> format specifiers
