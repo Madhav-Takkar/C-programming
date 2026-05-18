@@ -1,7 +1,7 @@
 # C-programming
-i will be learning c language \n
+i will be learning c language 
 
-*******SOME IMPORTANT POINTS ********* \n
+*******SOME IMPORTANT POINTS ********* 
 
 -> C is a statistically type language hence it requires specification for variable declaration \n 
 
