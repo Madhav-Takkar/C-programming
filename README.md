@@ -1,13 +1,13 @@
 # C-programming
-i will be learning c language 
+i will be learning c language \n
 
-*******SOME IMPORTANT POINTS ********* 
+*******SOME IMPORTANT POINTS ********* \n
 
--> C is a statistically type language hence it requires specification for variable declaration 
+-> C is a statistically type language hence it requires specification for variable declaration \n 
 
-**variables**
--> name of variable - is known as "identifier"
--> syntax for variable declaration and initialization - data type variable_name = value; 
--> (int) - integer datatype
--> (char) - stores single character 
--> format specifiers 
+**variables** \n
+-> name of variable - is known as "identifier" \n
+-> syntax for variable declaration and initialization - data type variable_name = value; \n 
+-> (int) - integer datatype \n
+-> (char) - stores single character \n 
+-> format specifiers \n
